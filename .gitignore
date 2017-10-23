@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ExpressApp1/v15
+/ExpressApp1/node_modules
+/ExpressApp1/obj/Debug
+/ExpressApp1/bin
+**/*.map
+*.js
+/ExpressApp1/package-lock.json
